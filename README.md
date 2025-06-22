@@ -4,14 +4,14 @@ Python is a high-level, interpreted programming language known for its simplicit
 
 📚 What You'll Learn <br>
 
-✅ Variables and Data Types <br>
-✅ Control Flow (if-else, loops) <br>
-✅ Functions and Modules <br>
-✅ Object-Oriented Programming (OOP) <br>
-✅ File handling and I/O operations <br>
-✅ Exception handling  <br>
-✅ Working with libraries and packages <br>
-✅ Data structures (Lists, Dictionaries, Sets, Tuples) <br>
+- Variables and Data Types 
+- Control Flow (if-else, loops)
+- Functions and Modules 
+- Object-Oriented Programming (OOP)
+- File handling and I/O operations
+- Exception handling 
+- Working with libraries and packages 
+- Data structures (Lists, Dictionaries, Sets, Tuples) 
 
 
 ## Getting Started <br>
@@ -48,53 +48,53 @@ Before diving into coding, familiarize yourself with some fundamental concepts o
 - Exception Handling: Learn how to handle errors and exceptions gracefully in your Python programs.
 
 
-📋 Table of Contents
+## Table of Contents
 
-Comments
-Variables
-Typecasting
-Operators in Python
-Modules and Pip
-Download Handwritten Notes
-String and String Methods
-User Input in Python
-List & List Methods
-Tuple and Tuple Methods
-Set and Set Methods
-Dictionary & Dictionary Methods
-if-else Statements
-Match case
-for Loop
-while Loop
-Functions
-Exception Handling
-File I/O
-OOPs
+- [Comments](#comments)
+- [Variables](#variables)
+- [Typecasting](#typecasting)
+- [Operators in Python](#operators-in-python)
+- [Modules and Pip](#modules-and-pip)
+- [Download Handwritten Notes](#download-handwritten-notes)
+- [String and String Methods](#string-and-string-methods)
+- [User Input in Python](#user-input-in-python)
+- [List & List Methods](#list--list-methods)
+- [Tuple and Tuple Methods](#tuple-and-tuple-methods)
+- [Set and Set Methods](#set-and-set-methods)
+- [Dictionary & Dictionary Methods](#dictionary--dictionary-methods)
+- [if-else Statements](#if-else-statements)
+- [Match case](#match-case)
+- [for Loop](#for-loop)
+- [while Loop](#while-loop)
+- [Functions](#functions)
+- [Exception Handling](#exception-handling)
+- [File I/O](#file-io)
+- [OOPs](#oops)
 
 
-🎯 Sample Projects
+##  Sample Projects
 Practice is key to mastering Python. Start with simple projects to apply what you've learned. Here are a few ideas:
-1. 🧮 Calculator
+- 1. 🧮 Calculator
 Create a simple calculator program that can perform basic arithmetic operations.
-2. 📝 To-Do List
+- 2. 📝 To-Do List
 Build a to-do list application where users can add, edit, and delete tasks.
-3. 🌤️ Weather App
+- 3. 🌤️ Weather App
 Develop a command-line tool to fetch and display weather information based on user input.
-4. 🎯 Hangman Game
+- 4. 🎯 Hangman Game
 Implement the classic Hangman game where players guess a word by suggesting letters.
-5. 🕷️ Web Scraper
-Build a web scraper to extract data from websites and store it in a structured format.
+- 5. 🕷️ Web Scraper <br>
+Build a web scraper to extract data from websites and store it in a structured format.<br>
 
-🤝 Contributing
+## 🤝 Contributing<br>
 If you find any issues with this README or have suggestions for improvement, feel free to contribute by submitting a pull request.
-How to Contribute
+How to Contribute<br>
 
-Fork this repository
-Create a feature branch (git checkout -b feature/improvement)
-Make your changes
-Commit your changes (git commit -am 'Add some improvement')
-Push to the branch (git push origin feature/improvement)
-Create a Pull Request
+- Fork this repository
+- Create a feature branch (git checkout -b feature/improvement)
+- Make your changes
+- Commit your changes (git commit -am 'Add some improvement')
+- Push to the branch (git push origin feature/improvement)
+-Create a Pull Request
 
 
 Happy coding! 🐍✨
