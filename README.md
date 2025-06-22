@@ -80,10 +80,6 @@ Create a simple calculator program that can perform basic arithmetic operations.
 Build a to-do list application where users can add, edit, and delete tasks.
 - 3. 🌤️ Weather App
 Develop a command-line tool to fetch and display weather information based on user input.
-- 4. 🎯 Hangman Game
-Implement the classic Hangman game where players guess a word by suggesting letters.
-- 5. 🕷️ Web Scraper <br>
-Build a web scraper to extract data from websites and store it in a structured format.<br>
 
 ## 🤝 Contributing<br>
 If you find any issues with this README or have suggestions for improvement, feel free to contribute by submitting a pull request.
