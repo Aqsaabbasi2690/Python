@@ -1,5 +1,5 @@
-🐍 Learning Python - A Comprehensive Guide to Python Programming
-Welcome to Learning Python, a beginner-friendly repository that helps you understand and master the fundamentals of Python programming language.
+## 🐍 Learning Python - A Comprehensive Guide to Python Programming
+Welcome to Learning Python, a beginner-friendly repository that helps you understand and master the fundamentals of Python programming language.<br>
 Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used in various fields such as web development, data analysis, artificial intelligence, and more. Whether you're preparing for technical interviews, working on automation projects, or building web applications, Python is an essential tool in your toolkit.
 
 📚 What You'll Learn
