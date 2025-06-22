@@ -2,35 +2,35 @@
 Welcome to Learning Python, a beginner-friendly repository that helps you understand and master the fundamentals of Python programming language.<br>
 Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used in various fields such as web development, data analysis, artificial intelligence, and more. Whether you're preparing for technical interviews, working on automation projects, or building web applications, Python is an essential tool in your toolkit.
 
-📚 What You'll Learn
+📚 What You'll Learn <br>
 
-✅ Variables and Data Types
-✅ Control Flow (if-else, loops)
-✅ Functions and Modules
-✅ Object-Oriented Programming (OOP)
-✅ File handling and I/O operations
-✅ Exception handling
-✅ Working with libraries and packages
-✅ Data structures (Lists, Dictionaries, Sets, Tuples)
+✅ Variables and Data Types <br>
+✅ Control Flow (if-else, loops) <br>
+✅ Functions and Modules <br>
+✅ Object-Oriented Programming (OOP) <br>
+✅ File handling and I/O operations <br>
+✅ Exception handling  <br>
+✅ Working with libraries and packages <br>
+✅ Data structures (Lists, Dictionaries, Sets, Tuples) <br>
 
 
-🚀 Getting Started
-If you're new to Python, here are a few steps to get started:
-1. 📥 Installation
+## 🚀 Getting Started <br>
+If you're new to Python, here are a few steps to get started: <br>
+# 1. 📥 Installation <br>
 
-If you haven't already, download and install Python from the official website. Choose the appropriate installer for your operating system.
+If you haven't already, download and install Python from the official website. Choose the appropriate installer for your operating system. <br>
 
-2. 🛠️ Setting up a Development Environment
+# 2. 🛠️ Setting up a Development Environment <br>
 
 You can use any text editor or Integrated Development Environment (IDE) for writing Python code. Popular choices include:
 
 Visual Studio Code
 PyCharm
 Sublime Text
+ <br>
 
 
-
-3. 📖 Learning Resources
+# 3. 📖 Learning Resources <br>
 
 Start with the official Python documentation, it's comprehensive and beginner-friendly.
 Online platforms offer Python courses for beginners:
