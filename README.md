@@ -74,7 +74,7 @@ Before diving into coding, familiarize yourself with some fundamental concepts o
 
 ##  Sample Projects
 Practice is key to mastering Python. Start with simple projects to apply what you've learned. Here are a few ideas:
-- 🧮 Calculator
+-  Calculator
 Create a simple calculator program that can perform basic arithmetic operations.
 -  To-Do List
 Build a to-do list application where users can add, edit, and delete tasks.
